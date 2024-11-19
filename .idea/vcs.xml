@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/eoi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/ihd-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/lokro-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/pcm-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/ppe-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/psc-next" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/pst-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/rrk-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder/rrs-ui" vcs="Git" />
+  </component>
+</project>
